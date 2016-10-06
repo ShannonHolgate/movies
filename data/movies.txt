@@ -17,6 +17,7 @@ The Great Gatsby
 Insidious
 The Conjouring 
 Predestination 
+Toy Story 10
 Ip Man
 Auwfa - Who wrote the paper?
 Men in Black
@@ -27,3 +28,6 @@ Harry Potter
 Matrix
 Django
 Pulp fiction
+THE GIT CRISIS OF 2016
+Django
+21 Jump Street
