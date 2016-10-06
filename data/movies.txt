@@ -1,5 +1,9 @@
+HSM
+HP
+Percy Jackson
 the lion king
 I Robot
+Independence Day
 Toy Story
 Shawshank Redemption
 The World's End
@@ -9,3 +13,4 @@ Inception
 My Little Pony And The Might Of The Soviet Union
 Predestination 
 Ip Man
+
